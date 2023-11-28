@@ -3,15 +3,14 @@
 <head> 
 <meta charset=UTF-8>
 <title> ACADEMIA REIS FIT </title>
-  <link rel="stylesheet" href="style.css">
+ <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header> 
 <h1> ACADEMIA REIS FIT </h1>
+<img src="https://saude.sesisc.org.br/wp-content/uploads/sites/13/2023/09/Beneficios-de-fazer-academia-Para-sua-saude-e-seu-corpo-scaled.jpg">
 <nav> 
-<a href='#'<Inicio</a> 
-<a href='#'<Informações</a> 
-<a href='#'<Contato</a>
+<a href='#'<[Contato](https://www.instagram.com/reisfit_academia/)</a>
 </nav>
 </header>
   <main>
